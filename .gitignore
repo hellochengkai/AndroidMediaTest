@@ -1,0 +1,5 @@
+*.o
+.externalNativeBuild
+.idea
+build
+.gradle/
